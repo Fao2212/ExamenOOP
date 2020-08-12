@@ -11,7 +11,7 @@ import java.util.ArrayList;
  *
  * @author jguty
  */
-public class GUI extends javax.swing.JFrame {
+public class    GUI extends javax.swing.JFrame {
 
     /**
      * Creates new form NewJFrame
